@@ -1,0 +1,31 @@
+#main{
+    width: 500px;
+    height: 750px;
+    margin-top: 100px;
+    background-color: #f7e0bf;
+}
+#area{
+    width: 800px;
+    height:200px ;
+}
+#col{
+    width: 70px;
+    height: 60px;
+    border-radius: 20px;
+    border: none;
+}
+#sub1{
+    margin-right: 5px;
+}
+#second{
+    background-color: #def08f;
+    width: 500px;
+    margin-left: -11px;
+    height: 530px;
+}
+
+
+#col:hover{
+    background-color: black;
+    color: antiquewhite;
+}
